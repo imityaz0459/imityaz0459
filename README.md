@@ -125,7 +125,7 @@
 
 ---
 
-# 💬 Random Dev Quote
+# 💬  Quotes
 
 <p align="center">
 
