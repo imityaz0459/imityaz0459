@@ -40,12 +40,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imityaz0459&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=imityaz0459&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imityaz0459&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imityaz0459&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=imityaz0459&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <br/>
@@ -61,7 +61,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=imityaz0459&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=imityaz0459&theme=radical&no-frame=true&row=1&column=6&cache_seconds=1800" alt="trophies"/>
 </p>
 
 <br/>
