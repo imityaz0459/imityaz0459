@@ -37,19 +37,8 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=imityaz0459&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imityaz0459&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=imityaz0459&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<br/>
-
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imityaz0459&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" width="48%"/> <img src="https://streak-stats.demolab.com/?user=imityaz0459&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imityaz0459&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=imityaz0459&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%"/> </p> <br/>
 ### 🚀 Featured Projects
 
 - 🛒 **[Amazon Clone](https://github.com/imityaz0459/amazon-clone)** — Responsive front-end clone built with HTML5 & CSS3
