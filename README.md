@@ -104,7 +104,7 @@
 
 ✅ Build 15+ Projects
 
-✅ Land a Front-End 
+
 
 ---
 
