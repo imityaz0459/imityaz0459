@@ -1,14 +1,14 @@
-<div align="center">
+      <div align="center">
 
 # Hi 👋, I'm **Imityaz Khan**
 
 ### 💻 Front-End Web Developer | MERN Stack Learner | Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;Building+Modern+Web+Applications;Learning+MERN+Stack;Always+Learning+New+Things!" />
-
-</div>
-
----
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;Building+Modern+Web+Applications;Learning+MERN+Stack;Always+Learning+New+Things!" />
+  
+  </div>
+  
+  ---
 
 # 👨‍💻 About Me
 
