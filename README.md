@@ -29,7 +29,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-[![Email Me](https://img.shields.io/badge/📧_Email-thefirdosh%40gmail.com-EA4335?style=for-the-badge)](mailto:thefirdosh@gmail.com)
+[![Email Me](https://img.shields.io/badge/📧_Email-imityazkhan0459gmail.com-EA4335?style=for-the-badge)](mailto:imityazkhan0459.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-firdoshkhan-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/firdoshkhan/)
 
 
