@@ -27,15 +27,17 @@
 ---
 
 # 🌐 Connect With Me
-
+<div align="center">
 <p align="center">
-[![Email Me](https://img.shields.io/badge/📧_Email-imityazkhan0459gmail.com-EA4335?style=for-the-badge)](mailto:imityazkhan0459.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-firdoshkhan-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/firdoshkhan/)
+
+
+[![Email](https://img.shields.io/badge/Email-imityazkhan0459%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imityazkhan0459@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imityaz--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imityaz-khan-)
 
 
 
 </p>
-
+</div>
 ---
 
 # 💻 Tech Stack
