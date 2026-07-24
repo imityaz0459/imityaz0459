@@ -115,7 +115,7 @@
 </p>
 ---
 
-# 💬 Random Thoughts
+# 💬 Random Quotes.
 
 <p align="center">
 
